@@ -4,5 +4,3 @@
 
 > [!quote] Unknown
 > The last war was merely the beginning… may Eberron have mercy on us for what we’ve done.
-
-dlskfjlsadkjflasdkdsalfk
