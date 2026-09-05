@@ -3,6 +3,9 @@
   "plugins": {
     "dg-math": {
       "enabled": false
+    },
+    "dg-timestamps": {
+      "enabled": false
     }
   }
 }
