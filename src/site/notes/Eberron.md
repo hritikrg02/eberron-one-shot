@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/eberron/","dg-note-properties":{"created":"2026-09-06 23:09","modified":"2026-09-06T23:57","aliases":["Material Plane"]}}
+---
+
+**Eberron** is the name of the world in which we reside. It is named after the [[Progenitor Dragon\|Progenitor Dragon]] of the [[Eberron (Progenitor Dragon)\|same name]] (see [[Creation of Eberron\|Creation of Eberron]]). To be more specific, it is the name of the planet which all beings that we know of reside. Six continents exist:
+- [[Aerenal\|Aerenal]]
+- [[Argonnessen\|Argonnessen]]
+- [[Everice\|Everice]]
+- [[Frostfell\|Frostfell]]
+- [[Khorvaire\|Khorvaire]]
+- [[Sarlona\|Sarlona]]
+- [[Xen’drik\|Xen’drik]]
+
+Of these, [[Khorvaire\|Khorvaire]] is by far the most populated and has the richest history.
