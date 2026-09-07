@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/001-administrative/encyclopedia-rules/","dg-note-properties":{"created":"2026-09-07 10:54","modified":"2026-09-07 10:54"}}
+{"dg-publish":true,"permalink":"/001-administrative/encyclopedia-rules/","dg-note-properties":{"created":"2026-09-07 10:54","modified":"2026-09-07T11:49"}}
 ---
 
-This document contains a description of how this wiki works. On the left-hand side, you will see a a title, a search bar, one or more folders, and then a list of documents underneath. Clicking the title will take you back to the [[001 Administrative/Welcome\|Welcome]] page and the search box works as you’d expect. Underneath that are the folders. There will likely be no more than a few, since folders are not the main way this wiki meant to be navigated. As such, you can see that most articles are simply listed in alphabetical order beneath the folders.
+This document contains a description of how this wiki works. On the left-hand side, you will see a a title, a search bar, a *Random Document* button, one or more folders, and then a list of documents underneath. Clicking the title will take you back to the [[001 Administrative/Welcome\|Welcome]] page and the search box works as you’d expect. *Random Document* will take you to a random document within the wiki. Underneath that are the folders. There will likely be no more than a few, since folders are not the main way this wiki meant to be navigated. As such, you can see that most articles are simply listed in alphabetical order beneath the folders.
 
 Navigation on this wiki is a bit different than most file-based workflows. Instead of folders which places documents into a linear hierarchy, most documents are contained in the root directory and navigation works in one of two ways:
 - If there is specific document or phrase you are looking for, you can scroll the document list or use the search box.
