@@ -3,6 +3,7 @@
 ---
 
 The **Progenitor Dragons** were a set of cosmic beings who existed at the dawn of time. They are responsible for the [[Creation of Eberron\|Creation of Eberron]]. To date, only three are believed to have existed:
-- [[Siberys (Progenitor Dragon)\|Siberys (Progenitor Dragon)]]
+- [[Siberys (Progenitor Dragon)\|Siberys]]
 - [[Eberron (Progenitor Dragon)\|Eberron]]
-- [[Khyber (Progenitor Dragon)\|Khyber (Progenitor Dragon)]]
+- [[Khyber (Progenitor Dragon)\|Khyber]]
+These three dragons would becomes the [[Siberys\|Sky]], [[Eberron\|Material Plane]], and [[Khyber\|Underworld]] of the planet of [[Eberron\|Eberron]].
