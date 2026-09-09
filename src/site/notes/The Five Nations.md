@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-five-nations/","dg-note-properties":{"created":"2026-09-08 17:41","modified":"2026-09-08 17:41"}}
+{"dg-publish":true,"permalink":"/the-five-nations/","dg-note-properties":{"created":"2026-09-08 17:41","modified":"2026-09-08T17:53","aliases":["Five Nations"]}}
 ---
 
 **The Five Nations** refer to the five primary regions that we under the [[The Kingdom of Galifar\|The Kingdom of Galifar]]:
