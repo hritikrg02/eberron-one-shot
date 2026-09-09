@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/sharn-the-city-of-towers/","dg-note-properties":{"created":"2026-09-07 16:29","modified":"2026-09-07T16:30","aliases":["Sharn"],"thumbnail":"995 Thumbnails/resized/5dc21cafb5fb8594cb3084f67c50ec3c_b89e22fb.webp"}}
+{"dg-publish":true,"permalink":"/sharn-the-city-of-towers/","dg-note-properties":{"created":"2026-09-07 16:29","modified":"2026-09-07T16:37","aliases":["Sharn"],"thumbnail":"995 Thumbnails/resized/5dc21cafb5fb8594cb3084f67c50ec3c_b89e22fb.webp"}}
 ---
+
+> [!quote] A newcomer to the big city
+> Distracted by the sights in the sky, I nearly walk into a [[Warforged\|Warforged]] as it brushes past me. It’s my first time seeing one, but then there are so many things I’ve never seen before in this place. Over there, a tattooed [[Elf\|Elf]] haggles with a masked [[Halfling\|Halfling]], arguing about the price of lizard meat. Beyond them, a gargoyle watches from a high perch. I gather my senses and keep moving.
 
 ![latest-2076062102.webp](/img/user/996%20Attachments/latest-2076062102.webp)
 
