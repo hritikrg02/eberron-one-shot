@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/elf/","dg-note-properties":{"created":"2026-09-08 17:29","modified":"2026-09-08T20:53","author":["Elves"]}}
+{"dg-publish":true,"permalink":"/elf/","dg-note-properties":{"created":"2026-09-08 17:29","modified":"2026-09-08T21:27","aliases":["Elves"]}}
 ---
 
 > [!quote] Shaeras Vadallia, High King of Valenar

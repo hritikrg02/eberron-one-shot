@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-of-eberron/","dg-note-properties":{"created":"2026-09-09 17:06","modified":"2026-09-09T17:08"}}
+{"dg-publish":true,"permalink":"/species-of-eberron/","dg-note-properties":{"created":"2026-09-09 17:06","modified":"2026-09-09T17:11"}}
 ---
 
 [[Eberron\|Eberron]] is home to the following species:
@@ -9,7 +9,7 @@
 - [[Gnome\|Gnomes]]
 - [[Goblin\|Goblins]]
 - [[Halfling\|Halflings]]
-- [[Humans\|Humans]]
+- [[Human\|Human]]
 - [[Kalashtar\|Kalashtar]]
 - [[Khoravar\|Khoravar]]
 - [[Orc\|Orcs]]
