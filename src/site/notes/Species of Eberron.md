@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-of-eberron/","dg-note-properties":{"created":"2026-09-09 17:06","modified":"2026-09-09T17:11"}}
+{"dg-publish":true,"permalink":"/species-of-eberron/","dg-note-properties":{"created":"2026-09-09 17:06","modified":"2026-09-09T17:29"}}
 ---
 
 [[Eberron\|Eberron]] is home to the following species:

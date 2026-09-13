@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/war-of-the-mark/","dg-note-properties":{"created":"2026-09-13 08:05","modified":"2026-09-13T08:13"}}
+---
+
+The **War of the Mark** was a conflict between [[The Dragonmarked Houses\|The Dragonmarked Houses]] and bearers of [[Aberrant Dragonmark\|Aberrant Dragonmarks]], occurring roughly 1500 years before the establishment of [[The Kingdom of Galifar\|The Kingdom of Galifar]]. This inciting incident of this was was when two extremely powerful bearers of the [[Aberrant Dragonmark\|Aberrant Dragonmark]] used their abilities to destroy [[Sharn, the City of Towers\|Sharn]], rallying others with the mark. The other houses allied together to take down this group and succeeded. Both during the war as well as afterwards, the houses, fearful of the threat of those with [[Aberrant Dragonmark\|Aberrant Dragonmarks]], systematically killed nearly all those who still possessed the mark. They also imposed a strict law that no two individuals with differing [[Dragonmark\|Dragonmarks]] shall be allowed to bear children.
+
+[[Breland\|Breland]]’s approach to wiping out those with [[Aberrant Dragonmark\|Aberrant Dragonmarks]] was unique, however. Those who possessed the mark were gathered in one place and then used on black op missions. Survival of these missions was nearly zero, but not exactly. The few who survived these missions went on to create [[House Tarkanan\|House Tarkanan]].
+
+The result of this was the near eradication of those with an [[Aberrant Dragonmark\|Aberrant Dragonmark]], with the few remaining being located within [[House Tarkanan\|House Tarkanan]], though there is always a chance for the mark to appear on someone at random.

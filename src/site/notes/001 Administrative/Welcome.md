@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/001-administrative/welcome/","tags":["gardenEntry"],"dg-note-properties":{"created":"2026-09-05 11:30","modified":"2026-09-10T07:46","thumbnail":"995 Thumbnails/resized/1ffa51faab67290fdef36b1e24cdd4ee_b89e22fb.webp"}}
+{"dg-publish":true,"permalink":"/001-administrative/welcome/","tags":["gardenEntry"],"dg-note-properties":{"created":"2026-09-05 11:30","modified":"2026-09-11T18:04","thumbnail":"995 Thumbnails/resized/1ffa51faab67290fdef36b1e24cdd4ee_b89e22fb.webp"}}
 ---
 
 ![efota-cover-203631017.jpg](/img/user/996%20Attachments/efota-cover-203631017.jpg)
@@ -12,4 +12,5 @@ For a more meta and out-of-game explanation on how this works, see [[001 Adminis
 - [[Eberron\|Eberron]]
 - [[Khorvaire\|Khorvaire]]
 - [[The Draconic Prophecy\|The Draconic Prophecy]]
-- [[Species of Eberron\|Species of Eberron]]π
+- [[Species of Eberron\|Species of Eberron]]
+- [[Dragonmark Lookup Table\|Dragonmark Lookup Table]]
