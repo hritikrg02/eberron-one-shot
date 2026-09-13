@@ -13,5 +13,5 @@ For a more meta and out-of-game explanation on how this works, see [[001 Adminis
 - [[Khorvaire\|Khorvaire]]
 - [[The Last War\|The Last War]]
 - [[The Draconic Prophecy\|The Draconic Prophecy]]
-- [[Dragonmark Lookup Table\|Dragonmark Lookup Table]]
 - [[Species of Eberron\|Species of Eberron]]
+- [[Dragonmark Lookup Table\|Dragonmark Lookup Table]]

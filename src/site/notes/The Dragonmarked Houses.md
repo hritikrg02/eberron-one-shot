@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-dragonmarked-houses/","dg-note-properties":{"created":"2026-09-09 22:14","modified":"2026-09-12T09:48"}}
+{"dg-publish":true,"permalink":"/the-dragonmarked-houses/","dg-note-properties":{"created":"2026-09-09 22:14","modified":"2026-09-13T07:19"}}
 ---
 
 When [[Dragonmark\|Dragonmarks]] began to manifest on the skin of mortals, those with them quickly recognized the amount of power contained therein, and quickly organized themselves into these so-called houses based on [[Dragonmark\|Dragonmark]]. This was done to control their distribution seeing as the marks themselves are inherited through bloodlines. As such, **The Dragonmarked Houses** refer to a set of established family lines, each tied to a specific [[Dragonmark\|Dragonmark]] (see [[Dragonmark Lookup Table\|Dragonmark Lookup Table]]). Thirteen such houses exist:
@@ -16,7 +16,7 @@ When [[Dragonmark\|Dragonmarks]] began to manifest on the skin of mortals, those
 - [[House Tharashk\|House Tharashk]]
 - [[House Thuranni\|House Thuranni]]
 - [[House Vadalis\|House Vadalis]]
-At present, these houses control massive swathes of life in [[Eberron\|Eberron]] as a whole.
+At present, these houses control massive swathes of life in [[Khorvaire\|Khorvaire]] as a whole.
 
 If a [[Dragonmark\|Dragonmark]] manifests on someone who isn’t already part of the pre-eshtablished house, members of the associated house are known to track down the individual in an attempt to bring them into the fold. This is done in an attempt to consolidate power within the house, as allowing those with a dragonmark to simply exist opens the possibility for an individual to challenge the authority of the associated house.
 
